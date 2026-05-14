@@ -8,6 +8,9 @@ node_modules/
 .env.development.local
 .env.test.local
 .env.production.local
+**/.env
+**/.env.local
+client/.env
 server/.env
 
 # Vite build output
